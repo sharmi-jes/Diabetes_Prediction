@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: Diabetes-Prediction
+Version: 0.0.1
+Author: sharmi
+Author-email: anyumsharmila@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
