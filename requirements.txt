@@ -3,6 +3,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-
+dotenv
+certifi
+pymongo
 
 -e .

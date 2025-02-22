@@ -1,0 +1,4 @@
+[ 2025-02-22 14:05:42,652 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-22 14:05:42,881 ] 23 root - INFO - create a passed data class for passing adta to mongodb
+[ 2025-02-22 14:05:42,881 ] 30 root - INFO - csv data format converted into jscon format
+[ 2025-02-22 14:05:42,881 ] 42 root - INFO - passed data to mongodb

@@ -1,0 +1,9 @@
+[ 2025-02-22 14:55:21,168 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-22 14:55:21,168 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-22 14:55:23,459 ] 17 root - INFO - create the dtaingestion class
+[ 2025-02-22 14:55:23,459 ] 24 root - INFO - read data from mongodb
+[ 2025-02-22 14:55:23,459 ] 40 root - INFO - feature store path function is to save  the data function 
+[ 2025-02-22 14:55:23,459 ] 51 root - INFO - spilt the train and etst data
+[ 2025-02-22 14:55:23,459 ] 71 root - INFO - iniate data function
+[ 2025-02-22 14:55:23,459 ] 15 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-22 14:55:23,459 ] 18 root - INFO - completed the data ingestion and start the iniate data ingestion

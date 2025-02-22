@@ -1,0 +1,14 @@
+[ 2025-02-22 15:19:09,039 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-22 15:19:09,046 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-22 15:19:09,047 ] 19 root - INFO - Initializing DataIngestion class
+[ 2025-02-22 15:19:09,047 ] 28 root - INFO - Reading data from MongoDB
+[ 2025-02-22 15:19:09,047 ] 58 root - INFO - Saving data to feature store path
+[ 2025-02-22 15:19:09,047 ] 75 root - INFO - Splitting train and test data
+[ 2025-02-22 15:19:09,047 ] 97 root - INFO - Starting data ingestion pipeline
+[ 2025-02-22 15:19:09,047 ] 15 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-22 15:19:09,047 ] 18 root - INFO - completed the data ingestion and start the iniate data ingestion
+[ 2025-02-22 15:19:09,055 ] 35 root - INFO - Connecting to MongoDB database: sharmianyum, collection: Diabetetic
+[ 2025-02-22 15:19:43,908 ] 52 root - INFO - Data fetched successfully from MongoDB: (300000, 9)
+[ 2025-02-22 15:19:45,227 ] 69 root - INFO - Data saved to feature store path: artifacts\02_22_2025_15_19_09\data_ingestion\feature_store
+[ 2025-02-22 15:19:45,290 ] 83 root - INFO - Data split into train ((240000, 9)) and test ((60000, 9))
+[ 2025-02-22 15:19:46,633 ] 92 root - INFO - Train and test CSV files saved successfully.
