@@ -1,0 +1,7 @@
+[ 2025-02-23 18:15:27,896 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-23 18:15:27,898 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-23 18:15:29,323 ] 23 root - INFO - read the train and test data from artifact
+[ 2025-02-23 18:15:29,323 ] 29 root - INFO - validate the number of cols in dataframe and schema path
+[ 2025-02-23 18:15:29,323 ] 42 root - INFO - detect drift path like compare the train and test distributions
+[ 2025-02-23 18:15:29,323 ] 16 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-23 18:15:29,323 ] 19 root - INFO - completed the data ingestion and start the iniate data ingestion

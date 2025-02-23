@@ -1,0 +1,13 @@
+[ 2025-02-23 17:41:30,664 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-23 17:41:30,684 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-23 17:41:30,694 ] 19 root - INFO - Initializing DataIngestion class
+[ 2025-02-23 17:41:30,694 ] 28 root - INFO - Reading data from MongoDB
+[ 2025-02-23 17:41:30,694 ] 58 root - INFO - Saving data to feature store path
+[ 2025-02-23 17:41:30,694 ] 75 root - INFO - Splitting train and test data
+[ 2025-02-23 17:41:30,694 ] 97 root - INFO - Starting data ingestion pipeline
+[ 2025-02-23 17:41:30,723 ] 23 root - INFO - read the train and test data from artifact
+[ 2025-02-23 17:41:30,723 ] 29 root - INFO - validate the number of cols in dataframe and schema path
+[ 2025-02-23 17:41:30,724 ] 42 root - INFO - detect drift path like compare the train and test distributions
+[ 2025-02-23 17:41:30,724 ] 16 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-23 17:41:30,724 ] 19 root - INFO - completed the data ingestion and start the iniate data ingestion
+[ 2025-02-23 17:41:30,724 ] 35 root - INFO - Connecting to MongoDB database: sharmianyum, collection: Diabetetic

@@ -1,0 +1,20 @@
+[ 2025-02-23 18:55:42,782 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-23 18:55:42,787 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-23 18:55:46,100 ] 23 root - INFO - read the train and test data from artifact
+[ 2025-02-23 18:55:46,102 ] 29 root - INFO - validate the number of cols in dataframe and schema path
+[ 2025-02-23 18:55:46,102 ] 42 root - INFO - detect drift path like compare the train and test distributions
+[ 2025-02-23 18:55:46,102 ] 16 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-23 18:55:46,102 ] 19 root - INFO - completed the data ingestion and start the iniate data ingestion
+[ 2025-02-23 18:56:05,159 ] 143 root - INFO - Performed train test split on the dataframe
+[ 2025-02-23 18:56:05,166 ] 145 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-02-23 18:56:05,167 ] 153 root - INFO - Exporting train and test file path.
+[ 2025-02-23 18:56:05,646 ] 162 root - INFO - Exported train and test file path.
+[ 2025-02-23 18:56:05,695 ] 23 root - INFO - Data validation is started
+[ 2025-02-23 18:56:05,695 ] 25 root - INFO - data validation
+[ 2025-02-23 18:56:05,700 ] 27 root - INFO - initaite the data validation
+[ 2025-02-23 18:56:05,700 ] 82 root - INFO - read the train an dtest data from artifact ingestion folder
+[ 2025-02-23 18:56:05,700 ] 86 root - INFO - read the train data from the read function
+[ 2025-02-23 18:56:05,843 ] 90 root - INFO - check validate number of cols
+[ 2025-02-23 18:56:05,843 ] 34 root - INFO - take the both length of schema and df
+[ 2025-02-23 18:56:05,860 ] 34 root - INFO - take the both length of schema and df
+[ 2025-02-23 18:56:06,399 ] 62 root - INFO - create the directory for drift

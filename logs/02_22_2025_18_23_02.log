@@ -1,0 +1,7 @@
+[ 2025-02-22 18:23:02,681 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-22 18:23:02,724 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-22 18:23:02,740 ] 19 root - INFO - Initializing DataIngestion class
+[ 2025-02-22 18:23:02,740 ] 28 root - INFO - Reading data from MongoDB
+[ 2025-02-22 18:23:02,740 ] 58 root - INFO - Saving data to feature store path
+[ 2025-02-22 18:23:02,740 ] 75 root - INFO - Splitting train and test data
+[ 2025-02-22 18:23:02,740 ] 97 root - INFO - Starting data ingestion pipeline

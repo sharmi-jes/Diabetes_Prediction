@@ -1,0 +1,25 @@
+# gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,diabetes
+# Female,80.0,0,1,never,25.19,6.6,140,0
+
+columns:
+ -gender: cat
+ -age: float
+ -hypertension: int
+ -heart_disease: int
+ -smoking_history: cat
+ -bmi: float
+ -HbA1c_level: float
+ -blood_glucose_level: int
+ -diabetes: int
+
+numerical_cols:
+  - age
+  - hypertension
+  - heart_disease
+  - bmi
+  - HbA1c_level
+  - blood_glucose_level
+  - diabetes
+
+
+

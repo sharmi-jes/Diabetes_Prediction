@@ -60,7 +60,7 @@ class PassedData:
 if __name__=="__main__":
     file_path=r"D:\RESUME ML PROJECTS\Diabetes Prediction\notebooks\diabetes_prediction_dataset.csv"
     database="sharmianyum"
-    collection="Diabetetic"
+    collection="diabetic_data"
     data=PassedData()
     records=data.read_csv_to_json_format(file_path)
     no_of_records=data.passed_data_to_mongodb(records,database=database,collection=collection)

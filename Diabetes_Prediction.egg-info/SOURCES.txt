@@ -8,9 +8,14 @@ Diabetetic/__init__.py
 Diabetetic/exception.py
 Diabetetic/logging.py
 Diabetetic/components/__init__.py
+Diabetetic/components/data_ingestion.py
+Diabetetic/components/data_validation.py
 Diabetetic/constants/__init__.py
 Diabetetic/constants/trainingpipeline/__init__.py
 Diabetetic/entity/__init__.py
+Diabetetic/entity/artfact_entity.py
 Diabetetic/entity/config_entity.py
 Diabetetic/pipeline/__init__.py
 Diabetetic/utils/__init__.py
+Diabetetic/utils/main_utils/__init__.py
+Diabetetic/utils/main_utils/utils.py

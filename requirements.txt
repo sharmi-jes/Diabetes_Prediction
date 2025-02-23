@@ -6,5 +6,7 @@ scikit-learn
 dotenv
 certifi
 pymongo
+Pyaml
+dill
 
 -e .
