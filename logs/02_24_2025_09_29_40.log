@@ -1,0 +1,29 @@
+[ 2025-02-24 09:29:40,789 ] 24 Diabetetic.logging - INFO - Logging system initialized successfully!
+[ 2025-02-24 09:29:40,794 ] 19 root - INFO - create the dataingestionconfig class
+[ 2025-02-24 09:29:43,512 ] 23 root - INFO - read the train and test data from artifact
+[ 2025-02-24 09:29:43,512 ] 29 root - INFO - validate the number of cols in dataframe and schema path
+[ 2025-02-24 09:29:43,512 ] 42 root - INFO - detect drift path like compare the train and test distributions
+[ 2025-02-24 09:29:43,603 ] 30 root - INFO - read the data from previous artuifact
+[ 2025-02-24 09:29:43,604 ] 38 root - INFO - create  preprocessor function
+[ 2025-02-24 09:29:43,604 ] 17 root - INFO - passed the data ingetion config to data ingestion class
+[ 2025-02-24 09:29:43,610 ] 20 root - INFO - completed the data ingestion and start the iniate data ingestion
+[ 2025-02-24 09:29:51,993 ] 143 root - INFO - Performed train test split on the dataframe
+[ 2025-02-24 09:29:51,993 ] 145 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-02-24 09:29:51,993 ] 153 root - INFO - Exporting train and test file path.
+[ 2025-02-24 09:29:52,395 ] 162 root - INFO - Exported train and test file path.
+[ 2025-02-24 09:29:52,414 ] 24 root - INFO - Data validation is started
+[ 2025-02-24 09:29:52,414 ] 26 root - INFO - data validation
+[ 2025-02-24 09:29:52,420 ] 28 root - INFO - initaite the data validation
+[ 2025-02-24 09:29:52,420 ] 85 root - INFO - read the train an dtest data from artifact ingestion folder
+[ 2025-02-24 09:29:52,420 ] 89 root - INFO - read the train data from the read function
+[ 2025-02-24 09:29:52,549 ] 93 root - INFO - check validate number of cols
+[ 2025-02-24 09:29:52,549 ] 34 root - INFO - take the both length of schema and df
+[ 2025-02-24 09:29:52,565 ] 34 root - INFO - take the both length of schema and df
+[ 2025-02-24 09:29:53,545 ] 31 root - INFO - complete the data validation
+[ 2025-02-24 09:29:53,545 ] 33 root - INFO - data transformation is started
+[ 2025-02-24 09:29:53,545 ] 35 root - INFO - apply config to the data transformatin
+[ 2025-02-24 09:29:53,545 ] 37 root - INFO - call the iniate data transfrmation
+[ 2025-02-24 09:29:53,545 ] 81 root - INFO - read the data fundtion
+[ 2025-02-24 09:29:53,643 ] 85 root - INFO - remove the target col from input  train data
+[ 2025-02-24 09:29:53,645 ] 89 root - INFO - remove the target col from input  test data
+[ 2025-02-24 09:29:53,645 ] 93 root - INFO - calling the preprocessor object

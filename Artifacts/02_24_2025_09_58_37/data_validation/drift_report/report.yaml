@@ -1,0 +1,27 @@
+HbA1c_level:
+  drift_status: false
+  p_value: 0.9973725663987187
+age:
+  drift_status: false
+  p_value: 0.8895965575009164
+blood_glucose_level:
+  drift_status: false
+  p_value: 0.964347968180576
+bmi:
+  drift_status: false
+  p_value: 0.24014501517565412
+diabetes:
+  drift_status: false
+  p_value: 1.0
+gender:
+  drift_status: false
+  p_value: 0.970938934488828
+heart_disease:
+  drift_status: false
+  p_value: 0.9999999999872364
+hypertension:
+  drift_status: false
+  p_value: 1.0
+smoking_history:
+  drift_status: false
+  p_value: 0.9972171356679506

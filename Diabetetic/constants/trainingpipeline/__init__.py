@@ -3,7 +3,7 @@ import sys
 
 '''TRAINING PIPELINE RELATED CONSTANT VARIABLES'''
 
-TARGET_COLUMNS="diabetes"
+TARGET_COLUMN="diabetes"
 ARTIFACT_DIR="Artifacts"
 PIPELINE_NAME="Diabetetic"
 FILE_NAME=r"D:\RESUME ML PROJECTS\Diabetes Prediction\diabetic_data\diabetes_prediction_dataset.csv"
@@ -35,4 +35,12 @@ PREPROCESSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
 
 
+'''DATA TRANSFORMATION RELATED VARIABLES'''
+
+DATA_TRANSFORMATION_DIR_ROOT="data_transformation"
+DATA_TRANSFORMATION_TRANSFORMED_DIR="transformed"
+DATA_TRANSFORMATION_OBJECT_DIR="transformed_object"
+DATA_TRANSFORMATION_TRAIN_FILE="train.npy"
+DATA_TRANSFORMATION_TEST_FILE="test.npy"
+PREPROCESSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
